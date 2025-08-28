@@ -2,7 +2,7 @@
 
 Este repositório tem o propósito de armazenar todas as 14 atividades propostas nas aulas de Desenvolvimento Web 1 da turma TIP4 no período 2025.2 no IFCE-MPE.
 
-Estrutura dos links: willyamandrade.github.io/Atividades-de-Web1/atividade-**X**/index.html\
+Estrutura dos links: willyamandrade.github.io/Atividades-de-Web1/Atividade**X**/index.html\
 Onde **X** é o número da atividade.
 
 **Link das atividades:**\
