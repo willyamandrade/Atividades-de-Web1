@@ -5,7 +5,7 @@ Este repositório tem o propósito de armazenar todas as 14 atividades propostas
 Estrutura dos links: willyamandrade.github.io/Atividades-de-Web1/Atividade**X**/index.html\
 Onde **X** é o número da atividade.
 
-**Link das atividades:**\
+**Links das atividades:**\
 [Atividade 1](https://willyamandrade.github.io/Atividades-de-Web1/Atividade1/index.html)\
 [Atividade 2](https://willyamandrade.github.io/Atividades-de-Web1/Atividade2/index.html)\
 [Atividade 3](https://willyamandrade.github.io/Atividades-de-Web1/Atividade3/index.html)\
