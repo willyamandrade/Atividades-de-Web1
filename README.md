@@ -10,4 +10,5 @@ Onde **X** é o número da atividade.
 [Atividade 2](https://willyamandrade.github.io/Atividades-de-Web1/atividade-2/index.html)\
 [Atividade 3](https://willyamandrade.github.io/Atividades-de-Web1/atividade-3/index.html)\
 [Atividade 4](https://willyamandrade.github.io/Atividades-de-Web1/atividade-4/index.html)\
-[Atividade 5](https://willyamandrade.github.io/Atividades-de-Web1/atividade-5/index.html)
+[Atividade 5](https://willyamandrade.github.io/Atividades-de-Web1/atividade-5/index.html)\
+[Atividade 6](https://willyamandrade.github.io/Atividades-de-Web1/atividade-6/index.html)
